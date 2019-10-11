@@ -352,7 +352,7 @@ video {
     padding: 1.2 1.8rem;
   } */
   #tab-2-content .tab-2-content-inner .text-tab-2 {
-    text-align: centergit;
+    text-align: center;
   }
   .tab-2-content-inner {
     -webkit-flex-direction: column;
