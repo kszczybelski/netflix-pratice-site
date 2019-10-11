@@ -351,6 +351,9 @@ video {
     font-size: 1.3rem;
     padding: 1.2 1.8rem;
   } */
+  #tab-2-content .tab-2-content-inner .text-tab-2 {
+    text-align: centergit;
+  }
   .tab-2-content-inner {
     -webkit-flex-direction: column;
     flex-direction: column;
@@ -393,6 +396,7 @@ video {
   .showcase::after {
     box-shadow: inset 80px 80px 250px #000, inset -80px -80px 250px #000;
   }
+
   #tab-1-content .tab-1-content-inner {
     grid-template-columns: 1fr;
     text-align: center;
